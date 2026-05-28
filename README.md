@@ -5,7 +5,7 @@
 </p>
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Masterstrap/Android-IOS/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Masterstrap/Mobilestrap/main/script.lua"))()
 ```
 
 ---
@@ -75,4 +75,4 @@ Masterstrap Mobile is provided as an open-source, environment-customization util
 2. **Execute the Script:** Copy and paste the official configuration loader block below into your execution workspace, then execute it:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Masterstrap/Android-IOS/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Masterstrap/Mobilestrap/main/script.lua"))()
